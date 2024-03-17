@@ -8,7 +8,7 @@
 
 * Marjoring in Foreign Languages and Literature and Minoring in Computer Science and Engineering @ [NSYSU](https://www.nsysu.edu.tw/?Lang=en)
 * Working part-time as a research assistant developing educational chatbots @ [NSYSU](https://www.nsysu.edu.tw/?Lang=en)
-* Working part-time as an IT helpdesk and full-stack dev @ [tsn](www.twtsn.co.jp/)
+* Working part-time as an IT helpdesk and full-stack dev @ [tsn](https://www.twtsn.co.jp/)
 * Applying for a grad school in Japan
 
 ## My Github Stats
