@@ -6,9 +6,8 @@
     </a>
 </p>
 
-* Marjoring in Foreign Languages and Literature and Minoring in Computer Science and Engineering @ [NSYSU](https://www.nsysu.edu.tw/?Lang=en)
-* Working part-time as a research assistant developing educational chatbots @ [NSYSU](https://www.nsysu.edu.tw/?Lang=en)
-* Working part-time as an IT helpdesk and full-stack dev @ [tsn](https://www.twtsn.co.jp/)
+* Marjoring in Computer Science @ [UIUC](https://siebelschool.illinois.edu/academics/graduate/professional-mcs)
+* Working part-time as a research assistant developing LLM integrated pose estimation system @ [NSYSU](https://www.nsysu.edu.tw/?Lang=en)
 * Applying for a grad school in Japan
 
 ## My Github Stats
