@@ -1,4 +1,4 @@
-## Abou Me
+## About Me
 
 <p align="center">
     <a href="https://github.com/HeavenAQ">
@@ -6,9 +6,9 @@
     </a>
 </p>
 
+* Majoring in Human Sciences @ [Waseda](https://www.waseda.jp/fhum/ghum/news-en/)
 * Marjoring in Computer Science @ [UIUC](https://siebelschool.illinois.edu/academics/graduate/professional-mcs)
 * Working part-time as a research assistant developing LLM integrated pose estimation system @ [NSYSU](https://www.nsysu.edu.tw/?Lang=en)
-* Applying for a grad school in Japan
 
 ## My Github Stats
 
